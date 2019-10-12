@@ -1,0 +1,5 @@
+//TODO
+- render menu correctly when user is (not) logged in
+- add property creatorId
+- Edit
+- Delete
